@@ -90,7 +90,7 @@ This is not:
 
 ## The Repos (and How They Fit Together)
 
-### 🧠 Cognitive Field Architecture (CFA)
+### 🧠 Cognitive Field Architecture [(CFA)](https://davidabau.github.io/Cognitive-Field-Architecture/)
 
 A grounded framework for understanding awareness as a dynamic field across emotional, rational, and perceptual planes.
 It describes how cognition stabilises, overloads, fragments, or regains coherence.
