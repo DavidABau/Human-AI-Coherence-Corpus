@@ -16,7 +16,7 @@ It wasn’t designed as a grand system or intended masterplan. It emerged slowly
 
 ### The aim is simple:
 
-to support human coherence, clarity, meaning stability, and ethical participation in reality — especially in the presence of powerful cognitive tools like AI.
+To support human coherence, clarity, meaning stability, and ethical participation in reality — especially in the presence of powerful cognitive tools like AI.
 
 * It is not a doctrine.
 * It is not a belief system.
