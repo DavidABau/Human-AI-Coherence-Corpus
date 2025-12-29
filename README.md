@@ -109,13 +109,13 @@ A careful exploration of how humans create meaning, why symbolic and mythic thin
 
 👉 Meaning, without losing grounding in reality.
 
-### 🧭 Idea Orientation Guide
+### 🧭 Idea Orientation Guide (IOG)
 
 Practical tools and gentle guidance for maintaining psychological sovereignty, clarity, critical thinking, and healthy cognitive hygiene in a world full of narratives, claims, and influence.
 
 👉 Everyday human navigation tools.
 
-### 🤖 Oscillation & Amplification
+### 🤖 Oscillation & Amplification (O&A)
 
 A framework for understanding AI not as a “mind,” but as a cognitive amplifier — something that magnifies human cognition rather than replaces it. Explores healthy relational boundaries and risks.
 
