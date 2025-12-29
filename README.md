@@ -3,7 +3,7 @@
 
 ## 🌿 Orientation to This Body of Work
 
-A gentle introduction to the frameworks developed here
+### A gentle introduction to the frameworks developed here
 
 ---
 
@@ -18,13 +18,13 @@ It wasn’t designed as a grand system or intended masterplan. It emerged slowly
 
 to support human coherence, clarity, meaning stability, and ethical participation in reality — especially in the presence of powerful cognitive tools like AI.
 
-It is not a doctrine.
-It is not a belief system.
-It is not “the answer.”
-It is simply a set of frameworks that may be helpful.
+* It is not a doctrine.
+* It is not a belief system.
+* It is not “the answer.”
+* It is simply a set of frameworks that may be helpful.
 
-If they help: good.
-If not: that’s okay too.
+### If they help: good.
+### If not: that’s okay too.
 
 ---
 
@@ -44,20 +44,20 @@ Across these repositories you’ll find tools and frameworks focused on:
 
 ### The emphasis is always on:
 
-stability
+* stability
 
-coherence
+* coherence
 
-psychological safety
+* psychological safety
 
-groundedness
+* groundedness
 
-humility
+* humility
 
-protection of human dignity
+* protection of human dignity
 
-There are no cosmic claims, and no metaphysical certainty wrapped around it.
-This is human-scale work.
+### There are no cosmic claims, and no metaphysical certainty wrapped around it.
+### This is human-scale work.
 
 ---
 
@@ -79,12 +79,12 @@ a “movement” to join
 
 a replacement for therapy, philosophy, religion, or personal agency
 
-It does not ask for belief.
-It doesn’t require commitment.
-There is no tribe.
-There is no ideology.
+* It does not ask for belief.
+* It doesn’t require commitment.
+* There is no tribe.
+* There is no ideology.
 
-This is a set of maps, not the territory.
+### This is a set of maps, not the territory.
 
 ---
 
@@ -103,7 +103,7 @@ Builds outward from CFA to look at how humans interact with environments, system
 
 👉 Humans in systems.
 
-🜂 Meaning, Myth & Metaphysics (MMM)
+### 🜂 Meaning, Myth & Metaphysics (MMM)
 
 A careful exploration of how humans create meaning, why symbolic and mythic thinking matters, and how to protect people from drifting into delusion or metaphysical inflation.
 
@@ -129,15 +129,15 @@ This work intentionally avoids hype, certainty, authority-claims, or recruitment
 
 It is shared in the spirit of:
 
-curiosity
+* curiosity
 
-humility
+* humility
 
-psychological care
+* psychological care
 
-grounded realism
+* grounded realism
 
-respect for human minds and lived experience
+* respect for human minds and lived experience
 
 There is no expectation that anyone must agree with it or adopt it.
 There is no urgency narrative.
@@ -155,11 +155,11 @@ Take what resonates.
 
 Question what doesn’t.
 
-Stay grounded.
+* Stay grounded.
 
-Stay sovereign.
+* Stay sovereign.
 
-Stay human.
+* Stay human.
 
 And if none of it helps, simply leave it.
 
@@ -179,14 +179,18 @@ If anyone finds value here and chooses to build upon it:
 
 Please do so with:
 
-care
+* care
 
-responsibility
+* responsibility
 
-humility
+* humility
 
-respect for human psychological safety
+* respect for human psychological safety
+
+---
 
 Technology is powerful.
 Humans are fragile.
 Coherence and dignity matter.
+
+---
