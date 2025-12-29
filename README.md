@@ -23,8 +23,8 @@ to support human coherence, clarity, meaning stability, and ethical participatio
 * It is not “the answer.”
 * It is simply a set of frameworks that may be helpful.
 
-### If they help: good.
-### If not: that’s okay too.
+#### If they help: good.
+#### If not: that’s okay too.
 
 ---
 
@@ -56,8 +56,8 @@ Across these repositories you’ll find tools and frameworks focused on:
 
 * protection of human dignity
 
-### There are no cosmic claims, and no metaphysical certainty wrapped around it.
-### This is human-scale work.
+#### There are no cosmic claims, and no metaphysical certainty wrapped around it.
+#### This is human-scale work.
 
 ---
 
@@ -146,7 +146,9 @@ There is no “this will save the world.”
 If parts of it help people stay steadier, safer, and more coherent…
 that’s enough.
 
-How to Approach This Work
+---
+
+### How to Approach This Work
 
 You don’t need to “believe” anything here.
 Read it like you’d read a well-crafted tool manual or field guide.
@@ -161,9 +163,9 @@ Question what doesn’t.
 
 * Stay human.
 
-And if none of it helps, simply leave it.
+#### And if none of it helps, simply leave it.
 
-Human dignity includes the dignity to walk away.
+#### Human dignity includes the dignity to walk away.
 
 ---
 
@@ -189,8 +191,8 @@ Please do so with:
 
 ---
 
-Technology is powerful.
-Humans are fragile.
-Coherence and dignity matter.
+#### Technology is powerful.
+#### Humans are fragile.
+#### Coherence and dignity matter.
 
 ---
