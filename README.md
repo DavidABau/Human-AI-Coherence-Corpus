@@ -97,25 +97,25 @@ It describes how cognition stabilises, overloads, fragments, or regains coherenc
 
 👉 Internal architecture of mind and awareness.
 
-### 🌐 Dynamic Field Model (DFM)
+### 🌐 Dynamic Field Model [(DFM)](https://davidabau.github.io/Dynamic-Field-Model/)
 
 Builds outward from CFA to look at how humans interact with environments, systems, social fields, and real-world dynamics — and how stability or collapse emerges at larger scales.
 
 👉 Humans in systems.
 
-### 🜂 Meaning, Myth & Metaphysics (MMM)
+### 🜂 Meaning, Myth & Metaphysics [(MMM)](https://davidabau.github.io/Meaning-Myth-and-Metaphysics/)
 
 A careful exploration of how humans create meaning, why symbolic and mythic thinking matters, and how to protect people from drifting into delusion or metaphysical inflation.
 
 👉 Meaning, without losing grounding in reality.
 
-### 🧭 Idea Orientation Guide (IOG)
+### 🧭 Idea Orientation Guide [(IOG)](https://davidabau.github.io/idea-orientation-guide/)
 
 Practical tools and gentle guidance for maintaining psychological sovereignty, clarity, critical thinking, and healthy cognitive hygiene in a world full of narratives, claims, and influence.
 
 👉 Everyday human navigation tools.
 
-### 🤖 Oscillation & Amplification (O&A)
+### 🤖 Oscillation & Amplification [(O&A)](https://davidabau.github.io/Oscillation-Amplification/)
 
 A framework for understanding AI not as a “mind,” but as a cognitive amplifier — something that magnifies human cognition rather than replaces it. Explores healthy relational boundaries and risks.
 
