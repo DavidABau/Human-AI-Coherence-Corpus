@@ -67,24 +67,24 @@ To help avoid misunderstanding:
 
 This is not:
 
-a metaphysical framework
+* a metaphysical framework
 
-a spiritual belief system
+* a spiritual belief system
 
-a scientific theory claiming authority
+* a scientific theory claiming authority
 
-a grand narrative about destiny
+* a grand narrative about destiny
 
-a “movement” to join
+* a “movement” to join
 
-a replacement for therapy, philosophy, religion, or personal agency
+* a replacement for therapy, philosophy, religion, or personal agency
 
 * It does not ask for belief.
 * It doesn’t require commitment.
 * There is no tribe.
 * There is no ideology.
 
-### This is a set of maps, not the territory.
+#### This is a set of maps, not the territory.
 
 ---
 
