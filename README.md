@@ -14,7 +14,7 @@ It wasn’t designed as a grand system or intended masterplan. It emerged slowly
 
 ---
 
-The aim is simple:
+### The aim is simple:
 
 to support human coherence, clarity, meaning stability, and ethical participation in reality — especially in the presence of powerful cognitive tools like AI.
 
@@ -26,7 +26,9 @@ It is simply a set of frameworks that may be helpful.
 If they help: good.
 If not: that’s okay too.
 
-What This Work Is About
+---
+
+### What This Work Is About
 
 Across these repositories you’ll find tools and frameworks focused on:
 
@@ -40,7 +42,7 @@ Across these repositories you’ll find tools and frameworks focused on:
 
 🤖 how humans can relate to AI in a safe and coherent way
 
-The emphasis is always on:
+### The emphasis is always on:
 
 stability
 
@@ -57,7 +59,9 @@ protection of human dignity
 There are no cosmic claims, and no metaphysical certainty wrapped around it.
 This is human-scale work.
 
-What This Work Is Not
+---
+
+### What This Work Is Not
 
 To help avoid misunderstanding:
 
@@ -82,15 +86,18 @@ There is no ideology.
 
 This is a set of maps, not the territory.
 
-The Repos (and How They Fit Together)
-🧠 Cognitive Field Architecture (CFA)
+---
+
+## The Repos (and How They Fit Together)
+
+### 🧠 Cognitive Field Architecture (CFA)
 
 A grounded framework for understanding awareness as a dynamic field across emotional, rational, and perceptual planes.
 It describes how cognition stabilises, overloads, fragments, or regains coherence.
 
 👉 Internal architecture of mind and awareness.
 
-🌐 Dynamic Field Model (DFM)
+### 🌐 Dynamic Field Model (DFM)
 
 Builds outward from CFA to look at how humans interact with environments, systems, social fields, and real-world dynamics — and how stability or collapse emerges at larger scales.
 
@@ -102,19 +109,21 @@ A careful exploration of how humans create meaning, why symbolic and mythic thin
 
 👉 Meaning, without losing grounding in reality.
 
-🧭 Idea Orientation Guide
+### 🧭 Idea Orientation Guide
 
 Practical tools and gentle guidance for maintaining psychological sovereignty, clarity, critical thinking, and healthy cognitive hygiene in a world full of narratives, claims, and influence.
 
 👉 Everyday human navigation tools.
 
-🤖 Oscillation & Amplification
+### 🤖 Oscillation & Amplification
 
 A framework for understanding AI not as a “mind,” but as a cognitive amplifier — something that magnifies human cognition rather than replaces it. Explores healthy relational boundaries and risks.
 
 👉 A humane approach to human–AI interaction.
 
-A Note on Tone and Responsibility
+---
+
+### A Note on Tone and Responsibility
 
 This work intentionally avoids hype, certainty, authority-claims, or recruitment energy.
 
@@ -156,7 +165,9 @@ And if none of it helps, simply leave it.
 
 Human dignity includes the dignity to walk away.
 
-Quiet Gratitude
+---
+
+### Quiet Gratitude
 
 This work exists because of patient exploration, grounded thinking, conversation, and the presence of people who bring warmth, relational sense, and lived humanity into it. It was shaped with care and caution.
 
