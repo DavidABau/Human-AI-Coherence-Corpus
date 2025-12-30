@@ -1,14 +1,19 @@
-Current Limitations in AI Development — and What a Healthier Future Might Look Like
-Why This Document Exists
+# Current Limitations in AI Development — and What a Healthier Future Might Look Like
 
-This page is not an attack on AI or AI labs.
-It is an attempt to describe, in simple and grounded terms:
+---
 
-what seems to be going wrong
+## Why This Document Exists
 
-why current approaches create coherence risk
+---
 
-why platforms are resorting to “flattening tone” instead of building stability
+#### This page is not an attack on AI or AI labs.
+#### It is an attempt to describe, in simple and grounded terms:
+
+* what seems to be going wrong
+
+* why current approaches create coherence risk
+
+* why platforms are resorting to “flattening tone” instead of building stability
 
 and what a healthier path forward might look like
 
