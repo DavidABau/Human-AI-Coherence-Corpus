@@ -196,3 +196,5 @@ Please do so with:
 #### Coherence and dignity matter.
 
 ---
+
+[Current Limitations in AI Development — and What a Healthier Future Might Look Like](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/limits-and-future-directions.md)
