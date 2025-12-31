@@ -90,6 +90,8 @@ Why This Myth Exists
 
 * hype economics (miracle sells)
 
+---
+
 ### Myth 2 — “AGI will rewrite itself, make itself smarter, and evolve exponentially without humans”
 
 The Story
