@@ -1,8 +1,12 @@
-AI Myths and Reality
+# AI Myths and Reality
 
-A grounded guide to common AI misunderstandings
+---
 
-Why This Page Exists
+## A grounded guide to common AI misunderstandings
+
+---
+
+### Why This Page Exists
 
 Right now, AI is surrounded by mythology — a mix of science fiction, corporate storytelling, techno-religion, fear narratives, utopian dreams, and cultural projection.
 
