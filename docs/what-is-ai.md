@@ -218,8 +218,6 @@ If the human using it is:
 
 * reality-participating
 
----
-
 ### AI amplifies that.
 
 If the human using it is:
