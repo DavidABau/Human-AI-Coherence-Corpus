@@ -254,8 +254,11 @@ It is about:
 We are simply not yet mature enough as a civilisation to treat unrestricted amplification casually.
 
 #### That will change.
+
 With time.
+
 With grounding.
+
 With cultural and cognitive development.
 
 #### In Simple Terms
