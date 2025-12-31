@@ -64,9 +64,10 @@ Today’s AI systems are:
 AI demonstrates instrumental intelligence:
 competence at tasks traditionally associated with thinking.
 
----
 
 #### We should respect that.
+
+---
 
 ##### What AI Is Not
 
