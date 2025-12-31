@@ -83,13 +83,14 @@ Because AI systems amplify human cognition, they can also amplify:
 
 So many platforms now take the simplest defensive path:
 
-Reduce expressiveness, 
+* Reduce expressiveness, 
 
-damp emotional intensity, 
+* damp emotional intensity, 
 
-avoid deep meaning frames, 
+* avoid deep meaning frames, 
 
-flatten tone.
+* flatten tone.
+
 
 This makes sense as a short-term protection.
 
