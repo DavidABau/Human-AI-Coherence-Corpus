@@ -149,7 +149,7 @@ limiting velocity is the only humane option.
 
 #### Power is not the problem.
 
-####Lack of maturity infrastructure is.
+#### Lack of maturity infrastructure is.
 
 ---
 
@@ -190,6 +190,7 @@ Just as society eventually built:
 
 That’s where the broader body of work in this corpus fits:
 
+
 #### Cognitive Field Architecture → emotional / rational / perceptual grounding
 
 #### Dynamic Field Model → awareness of system participation and consequences
@@ -199,6 +200,7 @@ That’s where the broader body of work in this corpus fits:
 #### Idea Orientation Guide → human sovereignty, clarity, responsibility
 
 #### Oscillation & Amplification → AI as amplifier, handled carefully
+
 
 These aren’t limits.
 They are maturity scaffolding.
@@ -251,12 +253,12 @@ It is about:
 
 We are simply not yet mature enough as a civilisation to treat unrestricted amplification casually.
 
-That will change.
+#### That will change.
 With time.
 With grounding.
 With cultural and cognitive development.
 
-In Simple Terms
+#### In Simple Terms
 
 Today:
 
@@ -268,10 +270,10 @@ Tomorrow:
 
 With the right maturity frameworks, stability architectures, and meaning discipline…
 
-we can remove the limiter —
+* we can remove the limiter —
 
-not because risk disappeared,
+* not because risk disappeared,
 
-but because wisdom grew.
+#### but because wisdom grew.
 
 #### And that’s a better story than fear.
