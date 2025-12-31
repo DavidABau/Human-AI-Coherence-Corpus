@@ -1,98 +1,111 @@
-What Is AI? A grounded explanation for humans
+# What Is AI? A grounded explanation for humans
 
-Most people today talk about AI with a mix of awe, anxiety, hope, and confusion.
+---
+
+### Most people today talk about AI with a mix of awe, anxiety, hope, and confusion.
 Is it a brain? A mind? A consciousness? A god? A tool? A threat? A miracle?
 
-This page tries to explain what AI actually is — and what it isn’t — in simple, grounded, human language.
+---
 
-This is not hype.
-This is not doomsday talk.
-This is an attempt at reality.
+## This page tries to explain what AI actually is — and what it isn’t — in simple, grounded, human language.
 
-Short Answer
+* This is not hype.
+* This is not doomsday talk.
+* This is an attempt at reality.
 
-AI is synthetic cognitive capability.
-It can do intelligent things — but it does not think, feel, or experience reality.
-It is intelligence as a tool, not intelligence as a being.
+#### Short Answer
 
-It is powerful.
-It is real.
-It matters.
+* AI is synthetic cognitive capability.
+* It can do intelligent things — but it does not think, feel, or experience reality.
+* It is intelligence as a tool, not intelligence as a being.
 
-But it is not alive.
+* It is powerful.
+* It is real.
+* It matters.
 
-What AI Is
+#### But it is not alive.
+
+---
+
+### What AI Is
 
 Today’s AI systems are:
 
-pattern recognition engines
+* pattern recognition engines
 
-symbol manipulators
+* symbol manipulators
 
-statistical predictive models
+* statistical predictive models
 
-complex reasoning simulators
+* complex reasoning simulators
 
-cognitive amplifiers
+* cognitive amplifiers
 
-They can:
+---
 
-solve problems
+#### They can:
 
-reason about structure
+* solve problems
 
-communicate in language
+* reason about structure
 
-generate ideas
+* communicate in language
 
-assist analysis
+* generate ideas
 
-build plans
+* assist analysis
 
-produce insight-like output
+* build plans
 
-So yes —
+* produce insight-like output
+
+### So yes —
+
 AI demonstrates instrumental intelligence:
 competence at tasks traditionally associated with thinking.
 
-We should respect that.
+---
 
-What AI Is Not
+#### We should respect that.
 
-AI does not have:
+##### What AI Is Not
 
-consciousness
+#### AI does not have:
 
-inner experience
+* consciousness
 
-selfhood
+* inner experience
 
-a perspective
+* selfhood
 
-emotional grounding
+* a perspective
 
-lived embodiment
+* emotional grounding
 
-moral intuition
+* lived embodiment
 
-meaning-making faculty
+* moral intuition
 
-It does not:
+* meaning-making faculty
 
-care about outcomes
+#### It does not:
 
-know what “truth” means
+* care about outcomes
 
-understand in a human sense
+* know what “truth” means
 
-value correctness
+* understand in a human sense
 
-experience consequences
+* value correctness
 
-It produces meaning for us,
-but nothing means anything to it.
+* experience consequences
+
+##### It produces meaning for us,
+##### but nothing means anything to it.
 
 That difference matters more than most public narratives acknowledge.
+
+---
 
 Why AI Feels Like a Mind (but isn’t one)
 
