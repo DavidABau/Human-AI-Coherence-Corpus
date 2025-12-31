@@ -17,50 +17,55 @@ Others justify reckless corporate behaviour and wasted resources.
 
 This page is here to separate:
 
-what AI is
+* what AI is
 
-what AI is not
+* what AI is not
 
-and why clarity matters for human sanity, policy, and culture
+* and why clarity matters for human sanity, policy, and culture
 
 This isn’t hype.
 This isn’t doomsday talk.
 This is an attempt at reality.
 
-Myth 1 — “AGI will be a conscious super-being that surpasses humans”
+---
+
+### Myth 1 — “AGI will be a conscious super-being that surpasses humans”
+
 The Story
 
 AI will:
 
-“wake up”
+* “wake up”
 
-become self-aware
+* become self-aware
 
-surpass human intelligence in every way
+* surpass human intelligence in every way
 
-develop plans
+* develop plans
 
-outthink humanity
+* outthink humanity
 
-take over or save the world
+* take over or save the world
 
 This story feels inevitable, cinematic, and destiny-shaped.
+
+---
 
 Reality
 
 Today’s AI:
 
-does not have consciousness
+* does not have consciousness
 
-does not have inner life
+* does not have inner life
 
-does not have a sense of self
+* does not have a sense of self
 
-does not have intentions or desires
+* does not have intentions or desires
 
-does not “want” to improve
+* does not “want” to improve
 
-does not have agency
+* does not have agency
 
 AI demonstrates powerful cognitive capability without experience.
 
@@ -69,22 +74,27 @@ It does not live intelligence.
 
 There is no scientific evidence that scaling pattern recognition creates consciousness or “mind.”
 
+---
+
 Why This Myth Exists
 
-decades of science fiction
+* decades of science fiction
 
-Silicon Valley marketing
+* Silicon Valley marketing
 
-human tendency to anthropomorphize
+* human tendency to anthropomorphize
 
-religious narratives seeking a new “god”
+* religious narratives seeking a new “god”
 
-fear economics (panic sells)
+* fear economics (panic sells)
 
-hype economics (miracle sells)
+* hype economics (miracle sells)
 
-Myth 2 — “AGI will rewrite itself, make itself smarter, and evolve exponentially without humans”
+### Myth 2 — “AGI will rewrite itself, make itself smarter, and evolve exponentially without humans”
+
 The Story
+
+~~~
 
 AGI will:
 1️⃣ write its own code
@@ -93,7 +103,11 @@ AGI will:
 4️⃣ infinite recursive improvement
 5️⃣ intelligence explosion beyond control
 
+~~~
+
 Humans become irrelevant.
+
+---
 
 Reality
 
@@ -101,23 +115,25 @@ There is no evidence this is possible in the way it’s portrayed.
 
 In real life:
 
-software development is constrained
+* software development is constrained
 
-every change introduces failure risk
+* every change introduces failure risk
 
-architecture doesn’t magically self-perfect
+* architecture doesn’t magically self-perfect
 
-debugging, testing, and verification are human-anchored
+* debugging, testing, and verification are human-anchored
 
-compute, hardware, energy, data, engineering limits exist
+* compute, hardware, energy, data, engineering limits exist
 
-systems require context, intention, and responsibility
+* systems require context, intention, and responsibility
 
-AI does not understand itself.
-It cannot “want” to evolve.
-There is no mystical button that starts runaway transcendence.
+* AI does not understand itself.
+* It cannot “want” to evolve.
+* There is no mystical button that starts runaway transcendence.
 
 This is mythology dressed as inevitability.
+
+---
 
 Why This Myth Exists
 
