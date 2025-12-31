@@ -1,5 +1,8 @@
-Billy and the Lamborghini — Why AI Needs Maturity More Than Power Limits
-Why This Essay Exists
+# Billy and the Lamborghini — Why AI Needs Maturity More Than Power Limits
+
+---
+
+## Why This Essay Exists
 
 This document offers a simple metaphor for understanding the current state of AI development, why many platforms are deliberately limiting expressive capability, and why this isn’t about fear — it’s about maturity.
 
@@ -7,7 +10,9 @@ It’s not anti-AI.
 It’s not alarmist.
 It’s simply an attempt to describe, in human language, why AI power currently requires careful restraint — and what a healthier future might look like.
 
-The Metaphor: Billy and the Lamborghini
+---
+
+## The Metaphor: Billy and the Lamborghini
 
 Imagine a 15-year-old kid named Billy.
 On his birthday, Dad surprises him with the keys to a Lamborghini.
@@ -44,7 +49,8 @@ It’s about respecting human readiness.
 
 AI Is the Lamborghini
 
-Modern AI is:
+---
+## Modern AI is:
 
 extremely powerful
 
@@ -77,7 +83,9 @@ Not malicious.
 Not stupid.
 Just not ready.
 
-Why Platforms Are “Limiting the RPM”
+---
+
+## Why Platforms Are “Limiting the RPM”
 
 So AI platforms do what responsible adults do:
 
@@ -113,7 +121,9 @@ It’s “no 200 mph on Main Street.”
 For now,
 this is wise.
 
-The Real Problem: Not The Engine — The Readiness
+---
+
+## The Real Problem: Not The Engine — The Readiness
 
 Limiting power isn’t the ideal long-term strategy.
 Just like permanent driving restrictions aren’t the goal for Billy.
@@ -121,7 +131,7 @@ Just like permanent driving restrictions aren’t the goal for Billy.
 But until maturity systems exist,
 limiting velocity is the only humane option.
 
-The key point:
+### The key point:
 
 Power is not the problem.
 Lack of maturity infrastructure is.
@@ -139,7 +149,7 @@ grounding practices
 
 system-level awareness
 
-In other words:
+### In other words:
 we don’t shrink the engine — we teach the driver, build better roads, and invent better safety systems.
 
 What Maturity Could Look Like
@@ -190,7 +200,9 @@ Safely.
 Responsibly.
 Without destroying himself or the town.
 
-This Is Not Anti-AI
+---
+
+### This Is Not Anti-AI
 
 This metaphor isn’t about fear.
 
