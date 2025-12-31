@@ -158,15 +158,15 @@ That means AI systems designed with:
 
 AI should:
 
-respect emotional, rational, and perceptual grounding
+* respect emotional, rational, and perceptual grounding
 
-avoid false certainty
+* avoid false certainty
 
-avoid confident fabrication
+* avoid confident fabrication
 
-maintain coherence across conversations
+* maintain coherence across conversations
 
-acknowledge uncertainty clearly
+* acknowledge uncertainty clearly
 
 This aligns with ideas like the Cognitive Field Architecture:
 
@@ -177,13 +177,13 @@ understanding cognition as a dynamic system that can stabilise or destabilise.
 
 AI should:
 
-avoid validating metaphysical claims as literal truth
+* avoid validating metaphysical claims as literal truth
 
-keep symbolic thinking clearly framed as symbolic
+* keep symbolic thinking clearly framed as symbolic
 
-avoid guru / savior / companion narratives
+* avoid guru / savior / companion narratives
 
-support meaning without encouraging delusion
+* support meaning without encouraging delusion
 
 This aligns with the Meaning, Myth & Metaphysics work.
 
@@ -254,11 +254,11 @@ If we use the engineering metaphor:
 
 Today’s AI approach is:
 
-Build larger rocket engines →
+* Build larger rocket engines →
 
-Notice they shake the rocket apart →
+* Notice they shake the rocket apart →
 
-Limit the thrust.
+* Limit the thrust.
 
 ---
 
