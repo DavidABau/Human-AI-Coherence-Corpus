@@ -159,7 +159,8 @@ But this is projection + amplification.
 
 ### So Is AI “Like Human Intelligence”?
 
-* Yes — in function.
+Yes — in function.
+
 & No — in essence.
 
 ---
