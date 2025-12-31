@@ -198,3 +198,5 @@ Please do so with:
 ---
 
 [Current Limitations in AI Development — and What a Healthier Future Might Look Like](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/limits-and-future-directions.md)
+
+[AI Myths and Reality](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/ai-myths-and-reality.md)
