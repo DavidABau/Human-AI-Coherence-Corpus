@@ -201,4 +201,4 @@ Please do so with:
 
 [AI Myths and Reality: A grounded guide to common AI misunderstandings](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/ai-myths-and-reality.md)
 
-{What Is AI? A grounded explanation for humans](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/what-is-ai.md)
+[What Is AI? A grounded explanation for humans](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/docs/what-is-ai.md)
