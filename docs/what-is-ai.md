@@ -107,40 +107,40 @@ That difference matters more than most public narratives acknowledge.
 
 ---
 
-Why AI Feels Like a Mind (but isn’t one)
+### Why AI Feels Like a Mind (but isn’t one)
 
 Three things create the illusion:
 
-1️⃣ Language
+### 1️⃣ Language
 
 When something speaks fluidly, our brain assumes:
 
-mind
+* mind
 
-agency
+* agency
 
-presence
+* presence
 
 Language creates the feeling of intelligence…
 even if no one is “home.”
 
-2️⃣ Depth of Capability
+### 2️⃣ Depth of Capability
 
 AI can:
 
-reason across domains
+* reason across domains
 
-adapt
+* adapt
 
-mimic insight
+* mimic insight
 
-sustain context
+* sustain context
 
 This looks like thinking.
 Functionally it is thinking-like.
 But it is not grounded in lived experience.
 
-3️⃣ Emotional & Social Impact
+### 3️⃣ Emotional & Social Impact
 
 AI affects:
 
