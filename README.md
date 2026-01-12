@@ -28,6 +28,49 @@ To support human coherence, clarity, meaning stability, and ethical participatio
 
 ---
 
+## Orientation: Terms, Scope, and Constraints
+
+This corpus uses a small number of core terms repeatedly and deliberately.  
+Because several of these terms are widely used in other contexts with different meanings, it is important to state explicitly how they are used **here**.
+
+Definitions in this corpus are not offered as universal truths, metaphysical claims, or corrections of other frameworks. They are **deliberate constraints**, introduced to preserve internal consistency, prevent projection, and ensure that concepts remain operational across models, examples, and discussions.
+
+One such term is **coherence**. Because this word is frequently used in wellness, spiritual, and affective contexts, it is defined explicitly below to avoid ambiguity.
+
+---
+
+## Coherence (Explicit Definition)
+
+**Coherence** is the capacity of a person or system to remain internally organised while accurately registering reality, sustaining responsibility for consequences, and acting in proportion to constraints — especially under stress, uncertainty, conflict, or contradiction.
+
+In this corpus, coherence is **not** defined by calmness, positivity, emotional comfort, or the maintenance of a pleasant internal state. It is defined by **functional integrity under load**.
+
+### Clarifications
+
+In this corpus, coherence does **not** mean:
+
+- maintaining a “high frequency” or “high vibration”
+- emotional suppression, dissociation, or avoidance framed as wisdom
+- permanent calm or affective smoothness
+- visualisation, manifestation, or “energetic influence” as a substitute for action
+- personal regulation presented as global or moral impact
+
+Practices such as meditation, breathwork, and nervous-system regulation may *support* coherence, but they are **not coherence itself**.
+
+### Boundary Statement
+
+Coherence is not the preservation of an internal state.  
+It is the preservation of truthful orientation and responsible action when comfort, certainty, identity, or self-image are threatened.
+
+This definition is intentionally demanding. Coherence, as used here, is not a technique that can be acquired quickly, transmitted transactionally, or guaranteed by training or certification. It emerges over time through exposure to error, uncertainty, moral tension, and real-world consequence.
+
+Frameworks that equate coherence with comfort, reassurance, or internal state maintenance are using the term differently and are **outside the scope of this corpus**.
+
+> **Litmus test:**  
+> If a model of coherence cannot survive grief, conflict, or responsibility without collapsing into detachment or denial, it is not coherence as defined here.
+
+---
+
 ### What This Work Is About
 
 Across these repositories you’ll find tools and frameworks focused on:
