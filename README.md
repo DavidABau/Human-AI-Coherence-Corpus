@@ -164,6 +164,14 @@ A framework for understanding AI not as a “mind,” but as a cognitive amplifi
 
 👉 A humane approach to human–AI interaction.
 
+### Layers of Human Experience [LHE](https://davidabau.github.io/Layers-of-Human-Experience/)
+
+This repository provides a descriptive map of distinct layers of human experience that are often confused, collapsed, or treated as interchangeable.
+
+It is not a theory of reality, a spiritual framework, a developmental ladder, or a system of personal improvement. It exists to help readers recognise what kind of experience they are having, what that layer can and cannot do, and where common category errors arise.
+
+The goal is orientation, not instruction.
+
 ---
 
 ### A Note on Tone and Responsibility
