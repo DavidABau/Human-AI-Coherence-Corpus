@@ -40,21 +40,21 @@ This layer is pre-ideological and pre-normative.
 It does not prescribe beliefs or values.
 It defines the conditions under which sense-making itself remains possible.
 
-Why This Layer Exists
+* Why This Layer Exists
 
-When epistemic stability degrades:
+* When epistemic stability degrades:
 
-facts become indistinguishable from narrative
+* facts become indistinguishable from narrative
 
-emotion replaces verification
+* emotion replaces verification
 
-correction is experienced as attack
+* correction is experienced as attack
 
-disagreement becomes identity conflict
+* disagreement becomes identity conflict
 
-trust erodes
+* trust erodes
 
-meaning fragments
+* meaning fragments
 
 When epistemic stability is preserved:
 
