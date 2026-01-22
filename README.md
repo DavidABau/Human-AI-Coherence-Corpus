@@ -30,8 +30,6 @@ To support human coherence, clarity, meaning stability, and ethical participatio
 
 ## Epistemic Stability — A Foundational Layer
 
-Epistemic Stability — A Foundational Layer
-
 Before meaning, values, or interpretation can function coherently, a shared epistemic substrate must exist.
 
 The Epistemic Stability Layer (ESL) describes the conditions under which information remains usable, interpretable, and corrigible within a system — whether that system is an individual mind, a relationship, a society, or a human–AI interaction.
@@ -40,9 +38,9 @@ This layer is pre-ideological and pre-normative.
 It does not prescribe beliefs or values.
 It defines the conditions under which sense-making itself remains possible.
 
-Why This Layer Exists
+### Why This Layer Exists
 
-* When epistemic stability degrades:
+When epistemic stability degrades:
 
 * facts become indistinguishable from narrative
 
@@ -70,7 +68,7 @@ When epistemic stability is preserved:
 
 The purpose of this layer is to preserve signal integrity — the ability for information to pass through a system without being distorted by noise, misaligned incentives, or emotional overload.
 
-Core Principles
+### Core Principles
 
 1. Shared reference precedes interpretation
 Facts, events, and observations must be distinguishable from meaning and narrative before productive disagreement can occur.
@@ -87,7 +85,7 @@ Without a shared epistemic substrate, values and interpretations fragment into i
 5. Coherence precedes consensus
 Agreement is not required. Legibility is.
 
-What This Layer Is Not
+### What This Layer Is Not
 
 * Not a political position
 
@@ -101,7 +99,7 @@ What This Layer Is Not
 
 It is a structural precondition for any of the above to function without collapse.
 
-Why This Appears at the Start of the Corpus
+### Why This Appears at the Start of the Corpus
 
 All subsequent layers in the Human–AI Coherence Corpus — cognition, meaning, identity, narrative, and human–AI interaction — implicitly rely on epistemic stability.
 
@@ -127,8 +125,8 @@ With it:
 
 For this reason, the Epistemic Stability Layer is placed before any interpretive or normative material.
 
-It is not a conclusion.
-It is the ground on which everything else stands.
+#### It is not a conclusion.
+#### It is the ground on which everything else stands.
 
 ---
 
