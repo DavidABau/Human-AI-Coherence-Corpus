@@ -40,7 +40,7 @@ This layer is pre-ideological and pre-normative.
 It does not prescribe beliefs or values.
 It defines the conditions under which sense-making itself remains possible.
 
-* Why This Layer Exists
+Why This Layer Exists
 
 * When epistemic stability degrades:
 
@@ -58,15 +58,15 @@ It defines the conditions under which sense-making itself remains possible.
 
 When epistemic stability is preserved:
 
-shared reference points remain available
+* shared reference points remain available
 
-disagreement can occur without escalation
+* disagreement can occur without escalation
 
-correction strengthens rather than destabilizes
+* correction strengthens rather than destabilizes
 
-meaning can be negotiated rather than imposed
+* meaning can be negotiated rather than imposed
 
-long-term coordination becomes possible
+* long-term coordination becomes possible
 
 The purpose of this layer is to preserve signal integrity — the ability for information to pass through a system without being distorted by noise, misaligned incentives, or emotional overload.
 
@@ -89,15 +89,15 @@ Agreement is not required. Legibility is.
 
 What This Layer Is Not
 
-Not a political position
+* Not a political position
 
-Not a moral framework
+* Not a moral framework
 
-Not a theory of truth
+* Not a theory of truth
 
-Not an attempt to control interpretation
+* Not an attempt to control interpretation
 
-Not a demand for consensus
+* Not a demand for consensus
 
 It is a structural precondition for any of the above to function without collapse.
 
@@ -107,23 +107,23 @@ All subsequent layers in the Human–AI Coherence Corpus — cognition, meaning,
 
 Without it:
 
-communication degrades
+* communication degrades
 
-sense-making becomes adversarial
+* sense-making becomes adversarial
 
-AI systems amplify distortion
+* AI systems amplify distortion
 
-trust becomes difficult to sustain
+* trust becomes difficult to sustain
 
 With it:
 
-disagreement remains navigable
+* disagreement remains navigable
 
-complexity becomes manageable
+* complexity becomes manageable
 
-interpretation remains grounded
+* interpretation remains grounded
 
-human and artificial systems can interact coherently
+* human and artificial systems can interact coherently
 
 For this reason, the Epistemic Stability Layer is placed before any interpretive or normative material.
 
