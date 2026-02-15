@@ -22,7 +22,7 @@ To support human coherence, clarity, meaning stability, and ethical participatio
 * It is not a belief system.
 * It is not “the answer.”
 * It is simply a set of frameworks that may be helpful.
-* It is a diagnostic map, not an ontological system.It should never replace lived judgement, relational nuance, or empirical reality.
+* It is a diagnostic map, not an ontological system. It should never replace lived judgement, relational nuance, or empirical reality.
 
 #### If they help: good.
 #### If not: that’s okay too.
