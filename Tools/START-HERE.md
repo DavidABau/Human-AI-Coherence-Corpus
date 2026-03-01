@@ -2,6 +2,10 @@
 
 These tools are designed for **real-time human interaction**, not theory.
 
+They are self-contained and usable independently. 
+
+### “No prior corpus knowledge required”
+
 They help answer simple questions like:
 
 - What’s happening right now?
