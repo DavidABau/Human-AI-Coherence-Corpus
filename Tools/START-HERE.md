@@ -6,6 +6,8 @@ They are self-contained and usable independently.
 
 ### “No prior corpus knowledge required”
 
+These tools are practical interaction scaffolds, not models of identity or personality.
+
 They help answer simple questions like:
 
 - What’s happening right now?
