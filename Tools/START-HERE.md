@@ -2,6 +2,8 @@
 
 These tools are designed for **real-time human interaction**, not theory.
 
+These are the parts of HACC designed for everyday life.
+
 They are self-contained and usable independently. 
 
 ### “No prior corpus knowledge required”
