@@ -33,6 +33,8 @@ Situational
 
 They are not fixed personality traits.
 
+Individuals may express multiple channels depending on context.
+
 ---
 
 ## Possible Tendencies (Soft Correlation)
