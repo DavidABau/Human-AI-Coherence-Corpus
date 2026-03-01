@@ -5,6 +5,10 @@
 
 ### A gentle introduction to the frameworks developed here
 
+If you prefer, you can jump straight to the practical tools section. None of the tools require an understanding of the HACC corpus before being utilised.
+
+[Tools]{https://github.com/DavidABau/Human-AI-Coherence-Corpus/tree/main/Tools}
+
 ---
 
 ### Why This Exists
