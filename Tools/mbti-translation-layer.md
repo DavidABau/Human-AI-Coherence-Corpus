@@ -39,20 +39,26 @@ They are not fixed personality traits.
 
 Some cognitive styles may show tendencies toward particular expression channels.
 
-| Cognitive Lean | Possible Channel Tendency |
-|----------------|---------------------------|
+These are heuristic observations — not identity mappings.
+
+| MBTI Type | Possible Channel Tendencies |
+|-----------|-----------------------------|
 | ISTJ | Duty |
-| ISFP | Authentic |
-| ISTP | Practical |
-| ENFJ | Interpersonal |
+| ISFJ | Care, Duty |
+| INFJ | Strategic, Care |
 | INTJ | Strategic |
-| ENFP | Evolutionary |
+| ISTP | Practical |
+| ISFP | Authentic |
+| INFP | Authentic, Evolutionary |
+| INTP | Practical, Evolutionary |
+| ESTP | Experiential, Practical |
 | ESFP | Experiential |
-
-These are:
-
-Heuristic observations  
-—not identity mappings.
+| ENFP | Evolutionary, Care |
+| ENTP | Evolutionary, Strategic |
+| ESTJ | Duty, Interpersonal |
+| ESFJ | Care, Interpersonal |
+| ENFJ | Interpersonal, Care |
+| ENTJ | Strategic, Duty |
 
 ---
 
