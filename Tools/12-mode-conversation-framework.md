@@ -1,5 +1,5 @@
 # 12-Mode Conversation Framework  
-*A Private Reference Expansion of the 5 Core Modes*
+*A Reference Expansion of the 5 Core Modes*
 
 ---
 
