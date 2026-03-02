@@ -171,3 +171,7 @@ Authority coherence stabilises through:
 Network coherence stabilises through:
 
 ➡️ What converges
+
+---
+
+“This tool emerged from exploring symbolic narratives of civilisational shift (e.g. ‘Age of Aquarius’) through a post-mythic lens.”
