@@ -1,4 +1,4 @@
-# 12-Mode Conversation Framework  
+# 12-Mode Conversational Framework  
 *A Reference Expansion of the 5 Core Modes*
 
 ---
