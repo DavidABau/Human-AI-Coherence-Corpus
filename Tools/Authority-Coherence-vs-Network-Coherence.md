@@ -175,3 +175,7 @@ Network coherence stabilises through:
 ---
 
 “This tool emerged from exploring symbolic narratives of civilisational shift (e.g. ‘Age of Aquarius’) through a post-mythic lens.”
+
+Myths and metaphysical frameworks are treated as meaning-tools that help people navigate life and coordinate with others, rather than as literal explanations of reality.
+
+
