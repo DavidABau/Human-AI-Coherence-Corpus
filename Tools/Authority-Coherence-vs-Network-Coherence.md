@@ -150,32 +150,6 @@ When tension appears, ask:
 
 ---
 
-## Example: Relational Mismatch
-
-Peg’s brother responded:
-
-> “She never taught me.”
-
-This reflects:
-
-➡️ Authority relevance filtering
-
-Meaning evaluated by:
-
-> Role relation
-
-Peg was operating in:
-
-➡️ Network / relational coherence
-
-Meaning came from:
-
-> Shared experience
-
-Mismatch = emotional drop.
-
----
-
 ## Simple Compass
 
 When tension appears, ask:
