@@ -215,5 +215,3 @@ All conversational failures reduce to one mistake:
 - Modes are contextual and fluid, not fixed traits
 
 ---
-
-*End of private reference model*
