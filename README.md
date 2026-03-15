@@ -78,18 +78,23 @@ The purpose of this layer is to preserve signal integrity — the ability for in
 ### Core Principles
 
 1. Shared reference precedes interpretation
+
 Facts, events, and observations must be distinguishable from meaning and narrative before productive disagreement can occur.
 
 2. Correction is a feature, not a failure
+
 Healthy systems treat revision as feedback, not as humiliation or threat.
 
 3. Signal must remain separable from emotion
+
 Emotion carries information, but cannot substitute for verification or evidence.
 
 4. Meaning depends on stable input
+
 Without a shared epistemic substrate, values and interpretations fragment into incoherent or adversarial narratives.
 
 5. Coherence precedes consensus
+
 Agreement is not required. Legibility is.
 
 ### What This Layer Is Not
