@@ -3,7 +3,7 @@
 
 ## 🌿 Orientation to This Body of Work
 
-All of the work here was develop with ChatGPT. It is theoretical and exploratory, not intended to be scientific nor academic.
+This corpus was developed collaboratively with ChatGPT. It is exploratory and conceptual in nature, intended as a framework for thinking rather than a scientific or academic claim.
 
 ### A gentle introduction to the frameworks developed here
 
