@@ -3,6 +3,8 @@
 
 ## 🌿 Orientation to This Body of Work
 
+All of the work here was develop with ChatGPT. It is theoretical and exploratory, not intended to be scientific nor academic.
+
 ### A gentle introduction to the frameworks developed here
 
 If you prefer, you can jump straight to the practical tools section. None of the tools require an understanding of the HACC corpus before being utilised.
