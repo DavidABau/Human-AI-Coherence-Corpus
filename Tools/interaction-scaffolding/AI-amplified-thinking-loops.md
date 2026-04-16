@@ -97,3 +97,5 @@ Stabilized incoherence occurs when:
 > amplification outpaces correction
 
 This tool reintroduces friction to restore balance.
+
+See also: Alignment Expression Modes / Conversation Modes
