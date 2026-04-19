@@ -8,6 +8,8 @@
 
 > As system amplification increases, required correction capacity must increase proportionally
 
+Risk ∝ Amplification / Correction capacity
+
 ---
 
 ## Terms
