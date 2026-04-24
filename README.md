@@ -7,17 +7,6 @@ This corpus was developed collaboratively with ChatGPT. It is exploratory and co
 
 ### A gentle introduction to the frameworks developed here
 
-## 🧰 Practical Interaction Tools
-
-These tools are designed for real-time use.  
-They do not require prior understanding of the HACC framework.
-
-- [Diagnose Your Conversation](Tools/diagnose-your-conversation.md)
-- [Interaction Modes (Quick Guide)](Tools/interaction-modes-quick-guide.md)
-- [Failure Pattern Recognition](Tools/failure-patterns.md)
-
-[Tools](https://github.com/DavidABau/Human-AI-Coherence-Corpus/tree/main/Tools)
-
 HACC in one glance: signal → coherence → structured output (with continuous feedback)
 
 ![HACC quick orientation image](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/HACCquickorientation.png)
@@ -29,6 +18,19 @@ How to read this diagram
 * Loop = continuous recalibration
 
 ![Full resolution image](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/HACCimage.png)
+
+---
+
+## 🧰 Practical Interaction Tools
+
+These tools are designed for real-time use.  
+They do not require prior understanding of the HACC framework.
+
+- [Diagnose Your Conversation](Tools/diagnose-your-conversation.md)
+- [Interaction Modes (Quick Guide)](Tools/interaction-modes-quick-guide.md)
+- [Failure Pattern Recognition](Tools/failure-patterns.md)
+
+[Tools](https://github.com/DavidABau/Human-AI-Coherence-Corpus/tree/main/Tools)
 
 ---
 
