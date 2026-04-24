@@ -11,6 +11,8 @@ If you prefer, you can jump straight to the practical tools section. None of the
 
 [Tools](https://github.com/DavidABau/Human-AI-Coherence-Corpus/tree/main/Tools)
 
+[HACC quick orientation image](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/HACCquickorientation.png)
+
 ---
 
 ### Why This Exists
