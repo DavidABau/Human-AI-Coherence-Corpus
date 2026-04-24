@@ -16,10 +16,10 @@ HACC in one glance: signal → coherence → structured output (with continuous 
 [HACC quick orientation image](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/HACCquickorientation.png)
 
 How to read this diagram
-Left → Right = signal flow
-Bright = coherent / amplified
-Dim = incoherent / suppressed
-Loop = continuous recalibration
+* Left → Right = signal flow
+* Bright = coherent / amplified
+* Dim = incoherent / suppressed
+* Loop = continuous recalibration
 
 ---
 
