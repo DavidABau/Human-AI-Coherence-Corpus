@@ -21,6 +21,8 @@ How to read this diagram
 * Dim = incoherent / suppressed
 * Loop = continuous recalibration
 
+![Full resolution image](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/HACCimage.png)
+
 ---
 
 ### Why This Exists
