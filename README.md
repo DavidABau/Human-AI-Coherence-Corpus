@@ -30,8 +30,6 @@ They do not require prior understanding of the HACC framework.
 - [Interaction Modes (Quick Guide)](Tools/interaction-modes-quick-guide.md)
 - [Failure Pattern Recognition](Tools/failure-patterns.md)
 
-[Tools](https://github.com/DavidABau/Human-AI-Coherence-Corpus/tree/main/Tools)
-
 ---
 
 ### Why This Exists
