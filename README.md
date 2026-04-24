@@ -7,7 +7,14 @@ This corpus was developed collaboratively with ChatGPT. It is exploratory and co
 
 ### A gentle introduction to the frameworks developed here
 
-If you prefer, you can jump straight to the practical tools section. None of the tools require an understanding of the HACC corpus before being utilised.
+## 🧰 Practical Interaction Tools
+
+These tools are designed for real-time use.  
+They do not require prior understanding of the HACC framework.
+
+- [Diagnose Your Conversation](Tools/diagnose-your-conversation.md)
+- [Interaction Modes (Quick Guide)](Tools/interaction-modes-quick-guide.md)
+- [Failure Pattern Recognition](Tools/failure-patterns.md)
 
 [Tools](https://github.com/DavidABau/Human-AI-Coherence-Corpus/tree/main/Tools)
 
