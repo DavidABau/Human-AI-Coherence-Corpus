@@ -2,6 +2,8 @@
 
 This tool helps you choose *how* to respond in a conversation.
 
+Most conversational breakdowns are mode mismatches, not disagreement
+
 Different situations require different modes.  
 Using the wrong mode often creates confusion, tension, or breakdown.
 
