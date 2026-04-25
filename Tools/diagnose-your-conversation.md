@@ -8,7 +8,7 @@ No prior knowledge of HACC is required.
 
 ## Diagnose Your Conversation
 
-![Diagnose Flow](assets/diagnose-flow.png)
+![Diagnose Flow](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/Tools/diagnose-flow.png)
 
 Use this to quickly identify where a breakdown is occurring.
 
