@@ -19,6 +19,12 @@ How to read this diagram
 
 ![Full resolution image](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/HACCimage.png)
 
+## Quick Interaction Guide
+
+A quick reference for diagnosing, recognising, and responding to conversational breakdowns.
+
+![Conversation Tool Sheet](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/Tools/conversation-tool-sheet.png)
+
 ---
 
 ### For AI developers
