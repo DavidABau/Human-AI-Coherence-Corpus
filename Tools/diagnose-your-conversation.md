@@ -6,6 +6,14 @@ No prior knowledge of HACC is required.
 
 ---
 
+## Diagnose Your Conversation
+
+![Diagnose Flow](assets/diagnose-flow.png)
+
+Use this to quickly identify where a breakdown is occurring.
+
+---
+
 ## 1. What’s happening?
 
 Select the closest match:
