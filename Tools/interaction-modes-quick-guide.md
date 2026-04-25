@@ -9,6 +9,15 @@ Using the wrong mode often creates confusion, tension, or breakdown.
 
 ---
 
+## Interaction Modes
+
+Different situations require different response strategies.
+
+
+![Modes](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/Tools/modes-overlay.png)
+
+---
+
 ## The Five Modes
 
 ### 🧯 Regulation
