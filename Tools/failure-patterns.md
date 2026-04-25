@@ -9,6 +9,14 @@ Recognising them early prevents escalation, confusion, and false certainty.
 
 ---
 
+## Failure Patterns
+
+Recognise these patterns early to prevent escalation.
+
+![Failures](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/Tools/failure-patterns.png)
+
+---
+
 ## 1. Signal Overload
 
 **What it is:**  
