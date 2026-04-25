@@ -21,6 +21,12 @@ How to read this diagram
 
 ---
 
+### For AI developers
+
+- [LLM Conversation Debugging](tools/dev/llm-conversation-debugging.md)
+
+---
+
 ## 🧰 Practical Interaction Tools
 
 These tools are designed for real-time use.  
