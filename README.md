@@ -24,6 +24,8 @@ How to read this diagram
 ### For AI developers
 
 - [LLM Conversation Debugging](Tools/dev/llm-conversation-debugging.md)
+- [LLM Response Strategy](Tools/dev/llm-response-strategy.md)
+- [LLM Failure Taxonomy](Tools/dev/llm-failure-taxonomy.md)
 
 ---
 
