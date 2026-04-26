@@ -1,6 +1,14 @@
 # Human-AI-Coherence-Corpus
 ---
 
+## System Overview
+
+All components of the Human–AI Coherence Corpus form a unified system of interacting fields.
+
+![HACC System Map](assets/hacc-system-map.png)
+
+---
+
 ## 🌿 Orientation to This Body of Work
 
 This corpus was developed collaboratively with ChatGPT. It is exploratory and conceptual in nature, intended as a framework for thinking rather than a scientific or academic claim.
