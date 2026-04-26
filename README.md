@@ -5,7 +5,7 @@
 
 All components of the Human–AI Coherence Corpus form a unified system of interacting fields.
 
-![HACC System Map](assets/hacc-system-map.png)
+![HACC System Map](https://github.com/DavidABau/Human-AI-Coherence-Corpus/blob/main/hacc-system-map.png)
 
 ---
 
