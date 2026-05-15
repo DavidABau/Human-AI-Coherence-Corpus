@@ -1,4 +1,3 @@
-```markdown
 # AI Conceptual Literacy  
 ## Distinguishing Human Experience from AI Interaction
 
@@ -268,4 +267,3 @@ A useful guiding principle may be:
 Maintaining this distinction may become increasingly important as AI systems continue to improve.
 
 ---
-```
